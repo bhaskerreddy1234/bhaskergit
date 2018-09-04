@@ -1,2 +1,2 @@
 # bhaskergit
-for test
+for tutorial purpose
